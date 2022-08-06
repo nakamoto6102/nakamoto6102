@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nakamoto6102
 - 👀 I’m interested in bitcoin and FOSS projects
-- 🌱 I’m currently learning about github and coding
+- 🌱 I’m currently learning about coding and how I can help FOSS 
 - 📫 How to reach me nakamoto6102@proton.me
 
 <!---
